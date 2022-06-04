@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="400" src="<h1 align="center">Hi 👋, I'm Amit Semwal</h1>
 <h3 align="center">I am a CSE student From India</h3>
 
-<img align="right" alt="coding" width="400" src="https://external-preview.redd.it/4iLw261NYmI75Vfek2tOjV7zsGVZzXAgp5GhSD0k2tE.gif?format=mp4&s=658a635332a27d9dd8835211bf58be0b25a626f8">
+<img align="right" alt="coding" width="400" src="https://th.bing.com/th/id/R.cc6237692def11760e3f2e6e23f2bfac?rik=cV5qvyB1vEHhmg&riu=http%3a%2f%2fmedia.giphy.com%2fmedia%2fLny6Rw04nsOOc%2fgiphy.gif&ehk=ZrAnnde39bHy4e0xylPHjCcPUDsueMspeOuokRGOASw%3d&risl=&pid=ImgRaw&r=0">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amit-2024&label=Profile%20views&color=0e75b6&style=flat" alt="amit-2024" /> </p>
 
