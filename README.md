@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amit-2024&label=Profile%20views&color=0e75b6&style=flat" alt="amit-2024" /> </p>
 
-- 🌱 I’m currently learning **web development**
+- 🌱 I’m currently learning **DevOps**
 
-- 💬 Ask me about **web development**
+- 💬 Ask me about **DevOps && web development**
 
 - 📫 How to reach me **asemwal125@gmail.com**
 
