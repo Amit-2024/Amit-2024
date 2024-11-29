@@ -77,15 +77,6 @@
 ### 🌟 Fun Fact  
 🌍 "I believe in learning by doing, and I’m constantly exploring how technology can solve real-world problems."  
 
----
-
-### 💡 Featured Projects  
-- **[Resume Website Deployment on AWS](https://amitsemwal.online)**  
-  - A static resume website deployed using AWS services (S3, CloudFront, and Route 53) with automated CI/CD pipelines.
-
-- **[Hotel Management System](https://github.com/Amit-2024/hotel-management)**  
-  - A Java-based desktop application for managing hotel operations, built using NetBeans IDE.
-
----
+----
 
 **✨ Let’s connect and grow together! ✨**
